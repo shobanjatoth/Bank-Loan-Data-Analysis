@@ -47,6 +47,8 @@ The bank maintains a healthy overall portfolio with **86.2%** of issued loans cl
 
 ---
 <img width="1263" height="727" alt="image" src="https://github.com/user-attachments/assets/222f4a9b-7858-45c8-bd53-e75247cbf694" />
+<img width="1262" height="700" alt="image" src="https://github.com/user-attachments/assets/0d97d6ae-ef36-48b0-98f9-8710cd84d4e5" />
+
 
 
 ## 📁 Repository Structure

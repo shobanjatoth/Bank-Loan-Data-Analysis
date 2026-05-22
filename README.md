@@ -4,7 +4,7 @@
 
 # Bank Loan Data Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview  more details[https://github.com/shobanjatoth/Bank-Loan-Data-Analysis/blob/main/1.%20Overview/PROJECT%20OVERVIEW.pdf]
 This project provides a comprehensive, data-driven analysis of a bank's lending operations. By leveraging SQL and data visualization tools, this analysis monitors key performance indicators (KPIs), tracks MoM (Month-over-Month) growth metrics, assesses the financial health of the loan portfolio, and categorizes loans into "Good" vs. "Bad" risk profiles. 
 
 The ultimate goal is to optimize lending strategies, mitigate financial defaults, and discover regional and demographic patterns among borrowers.

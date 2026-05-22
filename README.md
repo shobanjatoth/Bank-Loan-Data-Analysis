@@ -46,6 +46,8 @@ The bank maintains a healthy overall portfolio with **86.2%** of issued loans cl
 * **Home Ownership:** The highest funded amounts belong to borrowers with a **Mortgage** ($219.33M) or who **Rent** ($185.77M).
 
 ---
+<img width="1263" height="727" alt="image" src="https://github.com/user-attachments/assets/222f4a9b-7858-45c8-bd53-e75247cbf694" />
+
 
 ## 📁 Repository Structure
 ```text

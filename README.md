@@ -49,9 +49,9 @@ The bank maintains a healthy overall portfolio with **86.2%** of issued loans cl
 
 ## 📁 Repository Structure
 ```text
-├── 1. Overview/             # High-level introductory metrics and project context
-├── 2. Problem Statement/    # Detailed business problems and analytical goals
-├── 3. Dataset/              # Raw/Cleaned CSV/Excel bank loan data files
-├── 4. SQL Data Analysis/     # SQL scripts containing KPI queries and data manipulations
-├── 5. Dashboard/            # Interactive Power BI / Tableau visualization files
-└── README.md                # Project documentation (This file)
+├── 1. Overview/             
+├── 2. Problem Statement/    
+├── 3. Dataset/              
+├── 4. SQL Data Analysis/     
+├── 5. Dashboard/            
+└── README.md                
